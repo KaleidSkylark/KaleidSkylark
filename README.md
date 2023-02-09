@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# & Java**
 
-- 🏫 If you're a BSIT Student, maybe I can help **[My Projects](https://github.com/KaleidSkylark?tab=repositories)**
+- 🏫 If you're a BSIT Student, maybe I can help **[My Repos](https://github.com/KaleidSkylark?tab=repositories)**
 
 - 🔭 I’m currently working on [Capstone [Future]](https://github.com/KaleidSkylark)
 
