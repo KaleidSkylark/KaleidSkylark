@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **C# & Java**
 
-- 🏫 If you're a STI Student, maybe I can help **[BSIT](https://github.com/KaleidSkylark?tab=repositories)**
+- 🏫 If you're a BSIT Student, maybe I can help **[My Projects](https://github.com/KaleidSkylark?tab=repositories)**
 
-- 🔭 I’m currently working on [Thesis [Future]](https://github.com/KaleidSkylark)
+- 🔭 I’m currently working on [Capstone [Future]](https://github.com/KaleidSkylark)
 
 - 💬 Ask me about **Anime & Games**
 
