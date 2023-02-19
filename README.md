@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Anime & Games**
 
-- 🤙 How to reach me **How?**
+- 🎮 My scuff game **[Plague Predator](https://kaleidskylark.github.io/Plague-Predator-Game/)**
 
-- 🧾 Hobby's **Watching/Reading anime, manga, manhwa and movies.
+- 🧾 Hobby's **Watching/Reading anime, manga, manhwa and movies**.
 
 - ⚡ Fun fact! **I very hate you.**
 
