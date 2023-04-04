@@ -5,11 +5,11 @@
 
 - 🏫 If you're a BSIT Student, maybe I can help **[My Repos](https://github.com/KaleidSkylark?tab=repositories)**
 
-- 🔭 I’m currently working on [Capstone [Future]](https://github.com/KaleidSkylark)
+- 🔭 I’m currently working on [Capstone [eLMS-BUES-PHP]](https://github.com/KaleidSkylark/eLMS-BUES)
 
 - 💬 Ask me about **Anime & Games**
 
-- 🎮 My scuff game **[Plague Predator](https://kaleidskylark.github.io/Plague-Predator-Game/)**
+- 🎮 My scuff dashboard **[admin admin](https://janabajab.me/MainLobby/)**
 
 - 🧾 Hobby's **Watching/Reading anime, manga, manhwa and movies**.
 
