@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaleid Skylark</h1>
 <h3 align="center">Code warrior, solving IT puzzles one byte at a time - sharing my progress on GitHub</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, and JAVASCRIPT**
+- 🌱 I’m currently learning **Random Shits**
 
 - 🏫 If you're a BSIT Student, maybe I can help **[My Repos](https://github.com/KaleidSkylark?tab=repositories)**
 
