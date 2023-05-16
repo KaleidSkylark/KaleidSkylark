@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Capstone [eLMS-BUES-PHP]](https://github.com/KaleidSkylark/eLMS-BUES)
 
-- 💬 Ask me about **Anime & Games**
-
 - 🎮 My scuff dashboard **[admin admin](https://janabajab.me/MainLobby/)**
 
 - 🧾 Hobby's **Watching/Reading anime, manga, manhwa and movies**.
