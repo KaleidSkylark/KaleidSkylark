@@ -3,12 +3,6 @@
 
 - 🌱 I’m currently learning **Random Shits**
 
-- 🏫 If you're a BSIT Student, maybe I can help **[My Repos](https://github.com/KaleidSkylark?tab=repositories)**
-
-- 🔭 I’m currently working on [Capstone [eLMS-BUES-PHP]](https://github.com/KaleidSkylark/eLMS-BUES)
-
-- 🎮 My scuff dashboard **[admin admin](https://janabajab.me/MainLobby/)**
-
 - 🧾 Hobby's **Watching/Reading anime, manga, manhwa and movies**.
 
 - ⚡ Fun fact! **I very hate you.**
